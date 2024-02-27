@@ -7,4 +7,6 @@ cargo run -- main src/main.rs
 cargo test
 
 ## Publish
-cargo login cioSC1xulKZxoK8fnAedOcbNNtPKPAdIfbw
+cargo login <YOUR crate.io TOKEM>
+
+cargo publish
