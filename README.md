@@ -6,7 +6,13 @@ cargo run -- main src/main.rs
 
 cargo test
 
+## build
+
+cargo build --release 
+
 ## Publish
 cargo login <YOUR crate.io TOKEM>
 
 cargo publish
+
+
